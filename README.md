@@ -6,7 +6,11 @@
   </p>
 </div>
 
-
+### Architecture:
+   <p align="center">
+	  Visit ~/architecture for more clarification on the processor's architecture design.
+    <br />
+    4
 Current state of Processor Architecture:
 ![Alt text](images/upd.png/?raw=true "Current Architecture")
 
