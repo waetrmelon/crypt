@@ -1,4 +1,25 @@
 16 bit architecture
 little endian
 
+signed integers
+
+instruction set:
+each instruction is 16 bits
+
+Registers:
+- Accumulator:
+  - Description: Stores the arithmetic instruction value.
+
+
+Instruction Set:
+
+
+- Move Instruction:
+  - Opcode: (MOV) 
+    0000 0000 0000 0000
+  - Operands:
+    - Register -> Register you are targetting.
+    - Value  -> Value you are writing to specified register.
+
+
 
