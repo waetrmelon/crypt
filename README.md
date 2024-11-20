@@ -11,7 +11,7 @@
 	  Visit ~/architecture for more clarification on the processor's architecture design.
     <br />
     
-Current state of Processor Architecture:
+Current abstracted state of Processor Architecture:
 ![Alt text](images/upd.png/?raw=true "Current Architecture")
 
 
