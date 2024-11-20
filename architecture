@@ -10,6 +10,18 @@ Registers:
 - Accumulator:
   - Description: Stores the arithmetic instruction value.
 
+- Register A (0000 0000 0000 0000):
+  - Description: General Purpose Register 1
+- Register B (0000 0000 0000 0001):
+  - Description: General Purpose Register 2
+- Register C (0000 0000 0000 0010):
+  - Description: General Purpose Register 3
+- Register D (0000 0000 0000 0011):
+  - Description: General Purpose Register 4
+- Register E (0000 0000 0000 0100):
+   Description: General Purpose Register 5
+- Register F (0000 0000 0000 0101):
+  - Description: General Purpose Register 6
 
 Instruction Set:
 

@@ -6,7 +6,7 @@
   </p>
 </div>
 
-### Architecture:
+<h3 align="center">Archiecture </h3>
    <p align="center">
 	  Visit ~/architecture for more clarification on the processor's architecture design.
     <br />
