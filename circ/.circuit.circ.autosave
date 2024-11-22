@@ -427,11 +427,11 @@
       <a name="appearance" val="logisim_evolution"/>
       <a name="dataWidth" val="16"/>
     </comp>
-    <comp lib="8" loc="(1220,25)" name="Text">
+    <comp lib="8" loc="(1179,315)" name="Text">
       <a name="color" val="#0000ff"/>
       <a name="text" val="Data Load Bus"/>
     </comp>
-    <comp lib="8" loc="(1490,25)" name="Text">
+    <comp lib="8" loc="(1541,326)" name="Text">
       <a name="color" val="#0000ff"/>
       <a name="text" val="Data Offload Bus"/>
     </comp>

@@ -1,3 +1,27 @@
+FEATURES TO ADD:
+TODO: Add JMP [DONE]
+TODO: Add ADDA [DONE]
+TODO: Add SUBA
+TODO: Add MULA
+TODO: Add DIVA 
+
+TODO: Add CMP (Compare) Instruction
+TODO: Add GTR (GREATER) Instruction
+TODO: Add LESS (LESS) Instruction
+
+TODO: Add OUT (Output Value) Instruction
+TODO: Add OUTCHAR (Output Character) Instruction
+
+
+TODO: Add RAMW Instruction (RAM Write)
+TODO: Add RAMR Instruction (RAM Read)
+
+
+
+
+
+
+PROBLEMATIC:
 TODO: Fix problem caused when the Clock Cycle Exceeds 65535 and PC Overflows 
     -> Potential Fix: Add Rows for instructions as when Clock exceeds 65536 increment second version [PC]
     -> To load next batch of instructions
