@@ -26,12 +26,22 @@ Registers:
 Instruction Set:
 
 
-- Move Instruction:
-  - Opcode: (MOV) 
-    0000 0000 0000 0000
+- LDA Instruction:
+  - Opcode: (LDA) 
+  - Binary Representation: 0000 0000 0000 0000
+  - Description: Loads value specified in Operand-1 or (ARG-1) into Accumulator.
   - Operands:
-    - Register -> Register you are targetting.
-    - Value  -> Value you are writing to specified register.
+    - Value (ARG-1) -> Value you are writing to Accumulator.
+    - N/A (ARG-2) -> Ignored Second Argument
+
+
+- MOV Instruction:
+  - Opcode: (MOV) 
+  - Binary Representation: 0000 0000 0000 0001
+  - Description: Loads Value specified in Operand-2 or (ARG-2) into targetted register Operand-1 (ARG-1)
+  - Operands:
+    - Register (ARG-1) -> Register you are targetting.
+    - Value (ARG-2) -> Value you are writing to specified register.
 
 
 
