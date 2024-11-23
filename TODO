@@ -1,9 +1,9 @@
 FEATURES TO ADD:
 TODO: Add JMP [DONE]
 TODO: Add ADDA [DONE]
-TODO: Add SUBA
-TODO: Add MULA
-TODO: Add DIVA 
+TODO: Add SUBA [DONE]
+TODO: Add MULA [DONE]
+TODO: Add DIVA [DONE]
 
 TODO: Add CMP (Compare) Instruction
 TODO: Add GTR (GREATER) Instruction
